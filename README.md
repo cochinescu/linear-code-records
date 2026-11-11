@@ -1,10 +1,11 @@
 # Linear codes over GF(7), GF(8) and GF(9)
 
-This repository holds generator matrices of six linear codes, each in its own folder with a program that recomputes its minimum distance.
+This repository holds generator matrices of seven linear codes, each in its own folder with a program that recomputes its minimum distance.
 
 - q7-n88-k8-d64: a linear [88, 8, 64] code over GF(7); the lower bound listed at codetables.de on 2026-11-10 is 63. https://doi.org/10.5281/zenodo.24098667
 - q7-n90-k8-d65: a linear [90, 8, 65] code over GF(7); the lower bound listed at codetables.de on 2026-11-10 is 64. https://doi.org/10.5281/zenodo.24098671
 - q7-n97-k8-d71: a linear [97, 8, 71] code over GF(7); the lower bound listed at codetables.de on 2026-11-11 is 70. https://doi.org/10.5281/zenodo.24132260
+- q8-n85-k6-d67: a linear [85, 6, 67] code over GF(8), with w a root of x^3 + x + 1; the lower bound listed at codetables.de on 2026-11-11 is 66. https://doi.org/10.5281/zenodo.24132262
 - q8-n98-k7-d75: a linear [98, 7, 75] code over GF(8), with w a root of x^3 + x + 1; the lower bound listed at codetables.de on 2026-11-10 is 74. https://doi.org/10.5281/zenodo.24098673
 - q8-n97-k8-d72: a linear [97, 8, 72] code over GF(8), with w a root of x^3 + x + 1; the lower bound listed at codetables.de on 2026-11-10 is 71. https://doi.org/10.5281/zenodo.24112842
 - q9-n44-k7-d31: a linear [44, 7, 31] code over GF(9), with w a root of x^2 + 2x + 2; the lower bound listed at codetables.de on 2026-11-10 is 30. https://doi.org/10.5281/zenodo.24112844
@@ -28,6 +29,8 @@ Cochinescu, Sebastian (2026). A linear [88, 8, 64] code over GF(7). Zenodo. http
 Cochinescu, Sebastian (2026). A linear [90, 8, 65] code over GF(7). Zenodo. https://doi.org/10.5281/zenodo.24098671
 
 Cochinescu, Sebastian (2026). A linear [97, 8, 71] code over GF(7). Zenodo. https://doi.org/10.5281/zenodo.24132260
+
+Cochinescu, Sebastian (2026). A linear [85, 6, 67] code over GF(8). Zenodo. https://doi.org/10.5281/zenodo.24132262
 
 Cochinescu, Sebastian (2026). A linear [98, 7, 75] code over GF(8). Zenodo. https://doi.org/10.5281/zenodo.24098673
 
