@@ -1,7 +1,8 @@
 # Linear codes over GF(7), GF(8) and GF(9)
 
-This repository holds generator matrices of seven linear codes, each in its own folder with a program that recomputes its minimum distance.
+This repository holds generator matrices of eight linear codes, each in its own folder with a program that recomputes its minimum distance.
 
+- q7-n78-k8-d56: a linear [78, 8, 56] code over GF(7); the lower bound listed at codetables.de on 2026-11-11 is 55. https://doi.org/10.5281/zenodo.24136306
 - q7-n88-k8-d64: a linear [88, 8, 64] code over GF(7); the lower bound listed at codetables.de on 2026-11-10 is 63. https://doi.org/10.5281/zenodo.24098667
 - q7-n90-k8-d65: a linear [90, 8, 65] code over GF(7); the lower bound listed at codetables.de on 2026-11-10 is 64. https://doi.org/10.5281/zenodo.24098671
 - q7-n97-k8-d71: a linear [97, 8, 71] code over GF(7); the lower bound listed at codetables.de on 2026-11-11 is 70. https://doi.org/10.5281/zenodo.24132260
@@ -23,6 +24,8 @@ The generator matrices and texts in this repository are licensed under the Creat
 ## Citation
 
 Each code is cited by its Zenodo record:
+
+Cochinescu, Sebastian (2026). A linear [78, 8, 56] code over GF(7). Zenodo. https://doi.org/10.5281/zenodo.24136306
 
 Cochinescu, Sebastian (2026). A linear [88, 8, 64] code over GF(7). Zenodo. https://doi.org/10.5281/zenodo.24098667
 
